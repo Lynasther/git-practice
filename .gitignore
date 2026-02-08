@@ -1,3 +1,4 @@
 secret.txt
 error.log
 logs/
+.DS_Store
