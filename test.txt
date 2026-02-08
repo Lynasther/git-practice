@@ -1,1 +1,3 @@
 ilk satır
+yanlış commit satırı
+doğru satır
