@@ -1,3 +1,4 @@
 ilk satır
 yanlış commit satırı
 doğru satır
+remote test satırı
