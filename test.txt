@@ -3,3 +3,4 @@ yanlış commit satırı
 doğru satır
 remote test satırı
 ben salih
+remote test
